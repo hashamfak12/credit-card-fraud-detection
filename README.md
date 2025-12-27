@@ -31,7 +31,7 @@ All of the work is implemented in a single Python workflow and executed in Visua
 - Scikit-learn  
 - Matplotlib / Seaborn  
 ---
-
+`` Markdown
 ## Project Structure
 
 credit-card-fraud-detection/
