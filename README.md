@@ -37,3 +37,9 @@ All of the work is implemented in a single Python workflow and executed in Visua
 credit-card-fraud-detection/
 ├── credit_card_fraud_detection.ipynb
 └── README.md
+---
+
+## Results and Observations
+
+The trained models were evaluated using metrics such as accuracy, precision, recall, and F1-score. Because fraudulent transactions represent only a small portion of the dataset, special attention was given to recall and precision rather than accuracy alone.
+The results highlight how important it is to handle class imbalance when working on fraud detection problems, as a model with high accuracy can still perform poorly at identifying fraudulent cases.
